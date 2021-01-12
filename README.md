@@ -105,11 +105,15 @@ __5.1__ Calculos de forma teorica
 - Calcular la corriente en las mallas
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/2.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/3.png)
 
 - Calcular el error porcentual
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
+
+- Calcular la corriente
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/4.png)
 
 __5.2__ Tabulacion de los datos
 
