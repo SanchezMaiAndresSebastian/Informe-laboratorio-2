@@ -103,9 +103,9 @@ Armar el circuito
 __5.1__ Calculos de forma teorica
 
 - Calcular la corriente en las mallas
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/2.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/3.png)
 
 - Calcular el error porcentual
 
@@ -113,17 +113,17 @@ __5.1__ Calculos de forma teorica
 
 - Calcular la corriente
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/4.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/4.png)
 
 __5.2__ Tabulacion de los datos
 
 __5.2.1__ Resultados obtenidos de la medicion de la corriente tanto teorico como simulado
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/5.png)
 
 __5.2.2__ Calculo del error
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/6.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/6.png)
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
  - Siempre tener conectado a una fuente de corriente continua
@@ -149,7 +149,7 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 
 ### 10.	 ANEXOS
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/7.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/7.png)
 
 
 ###### _FIGURA 7_
