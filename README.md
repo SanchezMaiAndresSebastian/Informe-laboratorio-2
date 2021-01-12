@@ -46,22 +46,37 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 
 ![].(https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/8.png)
 
+
+###### _FIGURA 1_
+
 ### 3.	DIAGRAMAS
 - Diagrama de bloques
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png)
 
+
+###### _FIGURA 2_
+
 - Diagramas UML
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/10.png)
+
+
+###### _FIGURA 3_
 
 - Diagramas eléctricos
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/11.png)
 
+
+###### _FIGURA 4_
+
  - Diagramas esquemáticos.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/1.png)
+
+
+###### _FIGURA 5_
 
 ### 4.	LISTA DE COMPONENTES
 
@@ -107,15 +122,20 @@ __5.2.2__ Calculo del error
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/6.png)
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
+ - Siempre tener conectado a una fuente de corriente continua
+ - Tener la fuente de voltaje configurada para la medición en voltios
+ - Tener el multímetro siempre en la configurada en la medición de voltios 
  
 ### 7.	APORTACIONES
 
-
+ - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
+ - No es lo mismo la medición de voltaje con corriente 
+ - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
+ - LLa fuente de corriente directa mide cuantos amperios tiene el circuito.
  
 ### 8.	CONCLUSIONES
 - Para el calculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
-- 
+- Para la medicion delas mallas se puede dar la direccion qeu se quiera
 
 ### 9.	BIBLIOGRAFÍA
 
@@ -126,3 +146,6 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 10.	 ANEXOS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/7.png)
+
+
+###### _FIGURA 7_
