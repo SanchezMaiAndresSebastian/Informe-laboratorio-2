@@ -1,5 +1,5 @@
-# Informe de Laboratorio 1
-## Leyes de Kirchoff
+# Informe de Laboratorio 2
+## Analisis de Mallas
 ### 1.	OBJETIVOS
 
 **Principales**
