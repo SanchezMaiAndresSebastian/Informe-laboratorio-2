@@ -98,7 +98,7 @@ Un divisor de tensión es una configuración del circuito eléctrico que reparte
 ### 5.	EXPLICACIÓN
 
 Armar el circuito
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/upload/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio-2/blob/main/Fotos/1.png)
 
 __5.1__ Calculos de forma teorica
 
